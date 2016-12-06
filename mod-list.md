@@ -16,7 +16,7 @@ time: 1480932958302
 以下mod为服务器端安装的mod，客户端也要安装，顺序按照增加的时间倒序
 
 - [[TFC 0.79.29][0.13.0]TerraMisc.jar](https://drive.google.com/open?id=0BwLpeWu6AVjwaWtOTDBfenRUQVU) [原帖](http://terrafirmacraft.com/f/topic/8401-tfc-079290130terramisc-random-stuff-and-things-for-tfc/) [功能介绍](../terra-misc/) 2016年12月6日增加
-- [[1.7.10]Decorations-1.0.20.jar](https://drive.google.com/open?id=0BwLpeWu6AVjwR3VUZ0Q5RWlCeEE) [原帖](http://terrafirmacraft.com/f/topic/7694-tfc-07923-decorations-addon-for-tfc/) [功能介绍]()
+- [[1.7.10]Decorations-1.0.20.jar](https://drive.google.com/open?id=0BwLpeWu6AVjwR3VUZ0Q5RWlCeEE) [原帖](http://terrafirmacraft.com/f/topic/7694-tfc-07923-decorations-addon-for-tfc/) [功能介绍](../decorations/)
 - [[1.7.10]TFCUdaryMod-0.2.31.jar](https://drive.google.com/open?id=0BwLpeWu6AVjwYk93SlB0RkxiQlU) [原帖](http://terrafirmacraft.com/f/topic/7587-tfc-07926-udary-mod-galenalimonite-extraction-ingame-alloy-calculator-tucker-bag-evaporator-pan-drying-mat/) [功能介绍]()
 - [[1.7.10]TerraFirmaCraft-0.79.29.922.jar](https://drive.google.com/open?id=0BwLpeWu6AVjwNU9PTWwzRDJET28) Terrafirmacraft为主Mod，有独立的[Wiki](http://wiki.terrafirmacraft.com)
 
