@@ -4,7 +4,7 @@ time: 1481017871800
 ---
 Decorations 整合了TFC Lanterns 插件，又在此基础上增加了一些其他的方块来增强装饰能力
 
-![lanterns and gem block](../../static/lanterns-and-gem-block-preview.png)
+![lanterns and gem block](../../static/decorations/lanterns-and-gem-block-preview.png)
 
 # 增加的功能
 
@@ -25,7 +25,7 @@ Lantern Core制作好之后，需要酒精（任意一种酒）作为燃料填�
 
 然后再使用棍子，绳子，和玻璃板加上Lantern Core Filled 制作成Lantern
 
-![Lantern Core anvil recipe](../../static/decorations/anvil-lantern-core.pnga)
+![Lantern Core anvil recipe](../../static/decorations/anvil-lantern-core.png)
 
 
 ## Gem Blocks (宝石方块)
@@ -84,7 +84,7 @@ Lantern Core制作好之后，需要酒精（任意一种酒）作为燃料填�
 
 #### 上色
 
-![Gypsum and alabaster](../../static/decorations/gypsum-alabaster.png)
+![Gypsum and alabaster](../../static/decorations/gypsum-alabaster.png =360x)
 
 ## Mud Bricks (泥砖)
 
