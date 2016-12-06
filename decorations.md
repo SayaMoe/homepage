@@ -84,7 +84,7 @@ Lantern Core制作好之后，需要酒精（任意一种酒）作为燃料填�
 
 #### 上色
 
-![Gypsum and alabaster](../../static/decorations/gypsum-alabaster.png =360x)
+<img src="../../static/decorations/gypsum-alabaster.png" alt="Gypsum and alabaster" style="width: 360px">
 
 ## Mud Bricks (泥砖)
 
