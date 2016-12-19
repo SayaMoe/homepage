@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Bob Yuan">
+    <meta name="description" content="A Terrafirmacraft server community">
+    <title>
+                Decorations - Saya.moe            </title>
+    <link href="/assets/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/style.css" rel="stylesheet"/>
+    <script src="/assets/highlight.min.js"></script>
+    <!--<base target="_blank">-->
+</head>
+<body>
+<div class="container">
+    <div class="page-header">
+                <h1><a href="/" class="logo-text" target="_self">Saya.moe</a>&nbsp;
+                        <small>/ Decorations</small>
+                    </h1>
+            </div>
+<div class="row">
+<!-- two columns -->
+<div class="col-lg-3 col-md-3">
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">About</h3>
+    </div>
+    <div class="panel-body">
+        <p>这个wiki将帮助你更好的进行游戏</p>
+        <p>Author: <b>Bob Yuan</b></p>
+    </div>
+</div>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Navigation</h3>
+    </div>
+    <div class="panel-body">
+        <h6><a href="/" target="_self">Homepage</a></h6>
+                <h5>快速入门</h5>
+        <ul class="list-unstyled">
+                        <li>
+                <a href="/page/introduction/" target="_self">
+                                        Introduction                                    </a>
+            </li>
+                        <li>
+                <a href="/page/mod-list/" target="_self">
+                                        Mod列表                                    </a>
+            </li>
+                        <li>
+                <a href="/page/modpack/" target="_self">
+                                        整合包                                    </a>
+            </li>
+                    </ul>
+                <h5>工具</h5>
+        <ul class="list-unstyled">
+                        <li>
+                <a href="/page/drying-mat/" target="_self">
+                                        Drying Mat                                    </a>
+            </li>
+                        <li>
+                <a href="/page/tucker-bag/" target="_self">
+                                        Tucker Bag                                    </a>
+            </li>
+                    </ul>
+                <h5>插件</h5>
+        <ul class="list-unstyled">
+                        <li>
+                <a href="/page/decorations/" target="_self">
+                                        Decorations                                    </a>
+            </li>
+                        <li>
+                <a href="/page/terra-misc/" target="_self">
+                                        terra-misc                                    </a>
+            </li>
+                        <li>
+                <a href="/page/udary/" target="_self">
+                                        udary                                    </a>
+            </li>
+                    </ul>
+                        <a href="/changelog/">Changelog</a>
+            </div>
+</div>
+</div>
+<div class="col-lg-9 col-md-9 col-sm-12">
+<div class="index-content">
+<div class="row">
+<span class="label label-primary pull-right">插件</span>
+</div>
+<div class="row">
+<p>Decorations 整合了 TFC Lanterns 插件，又在此基础上增加了一些其他的方块来增强装饰能力</p>
+<p><img src="../../static/decorations/lanterns-and-gem-block-preview.png" alt="lanterns and gem block" /></p>
+<h1><a href="#增加的功能" name="增加的功能" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;增加的功能</h1>
+<h2><a href="#Lanterns_（灯笼）" name="Lanterns_（灯笼）" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;Lanterns （灯笼）</h2>
+<p>可以从 Tier 1 -  Tier 3 的金属以及合金制作多达 12 种灯笼。
+Tier3 及以上的金属或合金做成的灯笼有最大亮度，其余所有属性都是一样的。</p>
+<p>空手 Shift + 右键 点击灯笼可以开关</p>
+<p>灯笼的亮度等级可以在配置文件里编辑（目前使用默认配置）</p>
+<h3><a href="#制作方法：" name="制作方法：" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作方法：</h3>
+<p>需要先制作 Lantern Core，Lantern Core 使用任何 Tier 1 - 3 金属或合金在 Anvil（铁砧）打造，打造方法如下图所示</p>
+<p>Lantern Core 制作好之后，需要酒精（任意一种酒）作为燃料填充，每个 Lantern Core 消耗 2000ml 酒精。</p>
+<p>然后再使用棍子，绳子，和玻璃板加上 Lantern Core Filled 制作成 Lantern</p>
+<p><img src="../../static/decorations/anvil-lantern-core.png" alt="Lantern Core anvil recipe" /></p>
+<h2><a href="#Gem_Blocks_(宝石方块)" name="Gem_Blocks_(宝石方块)" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;Gem Blocks (宝石方块)</h2>
+<p>允许手持宝石右键点击任何固体方块的侧面将宝石镶嵌在方块上。</p>
+<p>如果方块被摧毁，那么宝石将会掉落</p>
+<p>附着的宝石可以被当作光源，亮度等级如下：</p>
+<ul>
+<li><p>Exquisite: 15</p></li>
+<li><p>Flawless: 14</p></li>
+<li><p>Normal: 13</p></li>
+<li><p>Flawed: 12</p></li>
+<li><p>Chipped: 11</p></li>
+</ul>
+<p>亮度等级可以在配置文件里编辑（本服务器使用默认配置）</p>
+<h2><a href="#Gypsum_Mortar_and_Alabaster_Blocks_（石膏砂浆和雪花石膏方块）" name="Gypsum_Mortar_and_Alabaster_Blocks_（石膏砂浆和雪花石膏方块）" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;Gypsum Mortar and Alabaster Blocks （石膏砂浆和雪花石膏方块）</h2>
+<p>可以从 Gypsum（石膏）里制作 Gypsum Powder（石膏粉）， 石膏粉可以被用于生产 (Gypsum Plaster) 石膏抹灰，石膏抹灰可以用来制作砂浆和雪花石膏方块。</p>
+<p>雪花石膏方块有如下特点：</p>
+<ul>
+<li>可以被染色</li>
+<li>可以被 Chisel（凿子）处理</li>
+<li>但不能用于覆盖木炭坑（Charcoal Pit）</li>
+</ul>
+<h3><a href="#制作方法：" name="制作方法：" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作方法：</h3>
+<h4><a href="#制作Alabaster_Block（雪花石膏方块）" name="制作Alabaster_Block（雪花石膏方块）" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作 Alabaster Block（雪花石膏方块）</h4>
+<p>使用锤子和 Gypsum（石膏）其粉碎成 Gypsum Powder</p>
+<p>将 Gypsum Powder 置于淡水的桶（Barrel）中，每 1 块消耗 500mB 淡水，满满一桶淡水正好需要 20 块 Gypsum Powder，得到了 Gypsum Plaster（石膏抹灰），如果你有足够的 gypsum powder 这个过程是瞬间完成的。</p>
+<p>再将 Gypsum Powder 置于 Gypsum Plaster 的桶里，每块 Gypsum Powder 需要 50mB 的 Gypsum Plaster，然后 Seal（封印）Barrel，下面显示输出为 Alabaster Block，等待若干小时。
+满满一桶 Gypsum Plaster 可以生产 200 个 Alabaster Block。这个过程总共消耗 200 + 20 个 Gypsum Powder</p>
+<h4><a href="#制作Mortar（砂浆）" name="制作Mortar（砂浆）" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作 Mortar（砂浆）</h4>
+<p>类似与 Limewater（石灰水）制作砂浆的原理，将沙子（Sand）放入 Gypsum Plaster 里，seal 即可。</p>
+<h3><a href="#给Alabaster_Block染色" name="给Alabaster_Block染色" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;给 Alabaster Block 染色</h3>
+<h4><a href="#制作刷子" name="制作刷子" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作刷子</h4>
+<h4><a href="#制作液体染料" name="制作液体染料" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作液体染料</h4>
+<h4><a href="#用液体染料填充刷子" name="用液体染料填充刷子" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;用液体染料填充刷子</h4>
+<h4><a href="#上色" name="上色" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;上色</h4>
+<p><img src="../../static/decorations/gypsum-alabaster.png" alt="Gypsum and alabaster" style="width: 360px; max-height: inherit;"></p>
+<h2><a href="#Mud_Bricks_(泥砖)" name="Mud_Bricks_(泥砖)" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;Mud Bricks (泥砖)</h2>
+<p>这些泥砖可以用于替代石砖，并在进入金属时代之前生产。</p>
+<p>泥砖颜色取决于材料（主要是泥土的岩石种类）</p>
+<p>泥砖有如下特点：</p>
+<ul>
+<li>可以被凿子处理</li>
+<li>不能用于覆盖木炭坑（Charcoal Pit）</li>
+</ul>
+<h3><a href="#制作泥砖" name="制作泥砖" target="_self" class="anchor"><span class="header-link">#</span></a>&nbsp;制作泥砖</h3>
+<p>首先使用沙子，稻草，粘土合成潮湿的泥砖，然后将泥砖放在地面上，等待 12 小时，取回泥砖，此时得到了干燥的泥砖，将 4 个干燥的泥砖合成泥砖方块 (Mud Brick Block)</p>
+<p><img src="../../static/decorations/mud-brick.png" alt="Mud Brick" /></p>
+<p><em>Last Update: Tue Dec 06 2016 19:01:34 GMT+0800 (CST)</em>  <a href="/raw/decorations.md">Source File</a></p>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+    <div class="footer-text">
+        <p>
+            Saya.moe using <a href="https://github.com/phoenixlzx/MinoriWiki" target="_blank">MinoriWiki</a>
+        </p>
+    </div>
+</div>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
