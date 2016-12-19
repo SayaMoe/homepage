@@ -65,7 +65,7 @@ of leather and any knife.
 
 用一个麻布，一个皮革和小刀即可修复受损的Reinforced Tucker Bag
 
-![Reinforced Tucker Bag](../../static/tucker-bag/standard-tucker-bag-repair.png)
+![Reinforced Tucker Bag](../../static/tucker-bag/reinforced-tucker-bag-repair.png)
 
 ## Iron Buckle
 
