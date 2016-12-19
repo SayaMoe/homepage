@@ -32,7 +32,7 @@ and release them to another location. This bag has 6 damage points.（可以抓�
 The standard tucker bag is made using two pieces of burlap cloth and four jute fibre, in the crafting
 space.
 需要2个burlap cloth（麻布）和4个黄麻纤维在合成台里合成
-![Standard Tukcer Bag](../../static/tucker-bag/standard-tucker-bag-recpie.png)
+![Standard Tukcer Bag](../../static/tucker-bag/standard-tucker-bag-recipe.png)
 
 ## Standard Tucker Bag (Repair)
 
@@ -54,7 +54,7 @@ leather, one iron buckle and any knife.
 
 使用Standard Tucker Bag 和一个Iron Buckle 外加一个小刀，两个皮革即可制成Reinforced Tucker Bag
 
-![Reinforced Tucker Bag](../../static/tucker-bag/standard-tucker-bag-recipe.png)
+![Reinforced Tucker Bag](../../static/tucker-bag/reinforced-tucker-bag-recipe.png)
 
 注意：完全损坏的reinforced tucker bag会消失
 
@@ -71,7 +71,7 @@ of leather and any knife.
 
 如下图所示使用Wrought Iron Ingot（铁锭）在一个铁砧上锻造而成。
 
-![Iron Buckle](../../static/iron-buckle-recipe.png)
+![Iron Buckle](../../static/tucker-bag/iron-buckle-recipe.png)
 
 # 捕获动物
 
