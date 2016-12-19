@@ -3,7 +3,7 @@ category: 工具
 time: 1481710093582
 ---
 
-原文地址：https://dl.dropboxusercontent.com/u/87519140/TFC/guides/TFC%20Tucker%20Bag%20Mod%20-%20User%20Guide.pdf
+[查看原文](https://dl.dropboxusercontent.com/u/87519140/TFC/guides/TFC%20Tucker%20Bag%20Mod%20-%20User%20Guide.pdf)
 
 # Introduction
 > The idea behind this mod is to allow the player to capture animals in one location and release them
@@ -45,5 +45,41 @@ fibre.
 
 Note: If the standard tucker bag is fully damaged, it is destroyed and cannot be repaired.
 
-注意：如果完全损坏的standard tucker bag会消失
+注意：完全损坏的standard tucker bag会消失
+
+## Reinforced Tucker Bag
+
+The reinforced tucker bag is made by upgrading an used standard tucker bag with 2 pieces of
+leather, one iron buckle and any knife.
+
+使用Standard Tucker Bag 和一个Iron Buckle 外加一个小刀，两个皮革即可制成Reinforced Tucker Bag
+
+![Reinforced Tucker Bag](../../static/tucker-bag/standard-tucker-bag-recipe.png)
+
+注意：完全损坏的reinforced tucker bag会消失
+
+## Reinforced Tucker Bag (Repair)
+
+The reinforced tucker bag can be repaired at any stage by using one piece of burlap cloth, one piece
+of leather and any knife.
+
+用一个麻布，一个皮革和小刀即可修复受损的Reinforced Tucker Bag
+
+![Reinforced Tucker Bag](../../static/tucker-bag/standard-tucker-bag-repair.png)
+
+## Iron Buckle
+
+如下图所示使用Wrought Iron Ingot（铁锭）在一个铁砧上锻造而成。
+
+![Iron Buckle](../../static/iron-buckle-recipe.png)
+
+# 捕获动物
+
+手持Tucker Bag左键点击动物，动物就会被捕获，所有属性都可以被保留，背包的图标会发生改变，并自动放入背部（除非你的背部已经背着东西）
+
+注意正在被骑乘和牵引的动物无法被捕获。
+
+# 释放动物
+
+手持已经捕获动物的Tucker Bag右键点击即可释放，需要注意的是，释放时准星不能对准任何物体（建议指向远处）
 
