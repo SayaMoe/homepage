@@ -6,4 +6,4 @@ time: 1480933012218
 
 整合包下载地址：
 
-> For Windows: [Google Drive](https://drive.google.com/open?id=0BwLpeWu6AVjwUmZPUlVXNU1IQm8)
+> For Windows: [Google Drive](https://drive.google.com/open?id=0BwLpeWu6AVjwR3lWSlVrMW51MWM)
